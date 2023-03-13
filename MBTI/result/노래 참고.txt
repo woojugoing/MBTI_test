@@ -1,0 +1,19 @@
+ISTP	차이코프스키
+ISTJ	바흐
+ISFP	쇼팽
+ISFJ	멘델스존
+INTP	비발디
+INTJ	베토벤
+INFP	차이코프스키
+INFJ	쇼팽
+ESTP	비발디
+ESTJ	멘델스존
+ESFP	드보르작
+ESFJ	보케리니
+ENTP	모차르트
+ENTJ	바그너
+ENFP	리스트
+ENFJ	베르디
+
+
+	
